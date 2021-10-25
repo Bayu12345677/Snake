@@ -23,12 +23,16 @@ snake rip adalah sebuah tools yg berisi scanning dan Osint ML
 
 
 > function
+
 `
 > => Recon dns
+
 `
 > => Osint tracking Mobile legends
+
 `
 > => Scan CMS
+
 `
 > => Dirhunt site
 
