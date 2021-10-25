@@ -20,3 +20,6 @@ snake rip adalah sebuah tools yg berisi scanning dan Osint ML
 [>] termux-setup-storage
 [>] bash Snake-rip.bash
 ```
+
+
+> function
