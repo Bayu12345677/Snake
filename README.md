@@ -30,5 +30,4 @@ snake rip adalah sebuah tools yg berisi scanning dan Osint ML
 
 
 
-me social media
-[!youtube](google.com)
+me social media              =>    [youtube](https://youtube.com/channel/UCtu-GcxKL8kJBXpR1wfMgWg)
